@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LocalizableTutorial
+
+  Created by cggapps
+  Copyright © 2019 cggapps. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "Permisos cámara en inglés";
+"CFBundleName" = "inglés";

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizableTutorial
+
+  Created by cggapps
+  Copyright © 2019 cggapps. All rights reserved.
+*/
+
+"label" = "label español";
+"button" = "button español";
+"textField" = "textField español";
+"image" = "es.png";
